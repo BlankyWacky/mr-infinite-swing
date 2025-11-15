@@ -1,6 +1,6 @@
 # Marvel Rivals - Infinite Swing Utility (Proof-of-Concept)
 
-This repository contains a Rust code snippet demonstrating how to externally modify memory to alter the swing mechanics for swing-based characters in Marvel Rivals.
+This repository contains a Rust code snippet demonstrating how to externally modify memory to alter the swing mechanics for swing-based characters in Marvel Rivals (Venom, Spider-Man)
 
 ## What it does
 
